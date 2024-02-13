@@ -1,0 +1,18 @@
+/src
+  /components
+    App.js
+    Catalog.js
+    Compare.js
+    Product.js
+    ProductCard.js
+  /store
+    actions
+      catalogActions.js
+      compareActions.js
+    reducers
+      catalogReducer.js
+      compareReducer.js
+    index.js
+  /server
+    index.js
+  index.js
